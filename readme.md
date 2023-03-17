@@ -1,4 +1,4 @@
-# Ping CRM - Svelte
+# PTW CRM - Svelte
 
 A demo application to illustrate how Inertia.js works.
 
